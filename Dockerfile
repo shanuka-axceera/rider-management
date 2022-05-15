@@ -8,4 +8,4 @@ RUN npm i
 
 EXPOSE 5010
 
-CMD ["node" ,'server.js']
+CMD ["node" ,"server.js"]
